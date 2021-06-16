@@ -1,0 +1,10 @@
+{
+  "homepage": "https://gamejolt.com#/games/st-dm-mc/625515",
+  "<mcversion>": {
+    "<modversion>": "1.16.5", 
+  },
+  "promos": {
+    "<mcversion>-latest": "1.0.0",
+    "<mcversion>-recommended": "1.0.0",
+  }
+}
